@@ -1,0 +1,14 @@
+2021-03-01 13:14:31.0093|INFO|MediaLibrary.Program|Program started
+2021-03-01 13:14:31.2945|INFO|MediaLibrary.FileScrubber|File scrub started
+2021-03-01 13:14:31.4671|INFO|MediaLibrary.FileScrubber|File scrub ended
+2021-03-01 13:14:31.4671|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-01 13:14:31.4919|INFO|MediaLibrary.Program|Program ended
+2021-03-10 00:27:37.2767|INFO|MediaLibrary.Program|Program started
+2021-03-10 00:27:37.4372|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-10 00:27:37.5245|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2021-03-10 00:27:37.5245|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2021-03-10 00:27:37.5391|INFO|MediaLibrary.Program|Program ended
+2021-03-10 00:30:08.1178|INFO|MediaLibrary.Program|Program started
+2021-03-10 00:30:08.1811|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2021-03-10 00:31:44.0065|INFO|MediaLibrary.MovieFile|Media id 164980 added
+2021-03-10 00:32:03.8626|INFO|MediaLibrary.Program|Program ended

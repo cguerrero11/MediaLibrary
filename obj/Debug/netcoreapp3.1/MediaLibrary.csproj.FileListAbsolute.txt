@@ -1,0 +1,17 @@
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.exe
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.deps.json
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.runtimeconfig.json
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.runtimeconfig.dev.json
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.dll
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\MediaLibrary.pdb
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.csprojAssemblyReference.cache
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.AssemblyInfoInputs.cache
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.AssemblyInfo.cs
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.csproj.CopyComplete
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.dll
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.pdb
+C:\Users\coolc\Desktop\coding stuff\NET data\MediaLibrary\obj\Debug\netcoreapp3.1\MediaLibrary.genruntimeconfig.cache
