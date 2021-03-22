@@ -12,3 +12,8 @@
 2021-03-10 00:30:08.1811|INFO|MediaLibrary.MovieFile|Movies in file 9125
 2021-03-10 00:31:44.0065|INFO|MediaLibrary.MovieFile|Media id 164980 added
 2021-03-10 00:32:03.8626|INFO|MediaLibrary.Program|Program ended
+2021-03-21 17:58:39.9731|INFO|MediaLibrary.Program|Program started
+2021-03-21 17:58:40.2241|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2021-03-22 13:23:17.5511|INFO|MediaLibrary.Program|Program started
+2021-03-22 13:23:17.8098|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2021-03-22 13:24:12.1455|INFO|MediaLibrary.Program|Program ended
